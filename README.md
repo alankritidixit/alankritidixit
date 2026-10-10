@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Alankriti Dixit 👋</h1>
-<h3 align="center">Turning raw data into decisions that matter | C | Python | SQL</h3>
+<h3 align="center">Turning raw data into decisions that matter </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EBE6A&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+messy+data+into+clean+stories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EBE6A&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making;C+%7C+Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+messy+data+into+clean+stories" alt="Typing SVG" />
 </p>
 
 ---
