@@ -28,7 +28,7 @@ I like to think of data the way a detective looks at a crime scene — every col
 ### 🛠️ Skills & Tools
 
 **Languages & Querying**
-[![C](https://shields.io)](https://wikipedia.org)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
